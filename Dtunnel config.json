@@ -1,0 +1,41 @@
+{
+    "name": "Weex Sin Saldo",
+    "description": "",
+    "mode": "SSL_DIRECT",
+    "tls_version": "TLSv1.3",
+    "sorter": 1,
+    "status": "ACTIVE",
+    "auth": {
+        "username": "demo",
+        "password": "demo",
+        "v2ray_uuid": null
+    },
+    "category": {
+        "name": "Ionos V2Ray",
+        "color": "#80000000",
+        "sorter": 1
+    },
+    "config_openvpn": null,
+    "config_payload": {
+        "payload": null,
+        "sni": "app.mibo.mx"
+    },
+    "config_v2ray": null,
+    "dns_server": {
+        "dns1": "8.8.8.8",
+        "dns2": "8.8.4.4"
+    },
+    "icon": "",
+    "proxy": {
+        "host": null,
+        "port": null
+    },
+    "server": {
+        "host": "Clientes.psiphondzul.store",
+        "port": 443
+    },
+    "udp_ports": [
+        7300
+    ],
+    "url_check_user": ""
+}
